@@ -7,6 +7,6 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profiles": [
-   { "id":1,"fullname": "typicode","role"=1,"password"="123","login"="admin"}
+   { "id":1,"fullname": "typicode","role":1,"password":"123","login":"admin"}
   ]
 }
